@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|c:\\users\\yomiheart\\source\\repos\\cheatbuster-git\\cheatbuster\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|solutionrelative:cheatbuster\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|c:\\users\\yomiheart\\source\\repos\\cheatbuster-git\\cheatbuster\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|solutionrelative:cheatbuster\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|c:\\users\\yomiheart\\source\\repos\\cheatbuster-git\\cheatbuster\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|solutionrelative:cheatbuster\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|c:\\users\\yomiheart\\source\\repos\\cheatbuster-git\\cheatbuster\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|solutionrelative:cheatbuster\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|c:\\users\\yomiheart\\source\\repos\\cheatbuster-git\\cheatbuster\\data\\folders.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|solutionrelative:cheatbuster\\data\\folders.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|c:\\users\\yomiheart\\source\\repos\\cheatbuster-git\\cheatbuster\\data\\extension.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4DBA5A1-379B-411E-8B2E-0DDBD4A56C11}|CheatBuster\\CheatBuster.csproj|solutionrelative:cheatbuster\\data\\extension.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\app.manifest",
+              "RelativeDocumentMoniker": "CheatBuster\\app.manifest",
+              "ToolTip": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\app.manifest",
+              "RelativeToolTip": "CheatBuster\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-05-18T08:24:43.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "folders.txt",
+              "DocumentMoniker": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\Data\\folders.txt",
+              "RelativeDocumentMoniker": "CheatBuster\\Data\\folders.txt",
+              "ToolTip": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\Data\\folders.txt",
+              "RelativeToolTip": "CheatBuster\\Data\\folders.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-18T08:20:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checker.cs",
+              "DocumentMoniker": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\Checker.cs",
+              "RelativeDocumentMoniker": "CheatBuster\\Checker.cs",
+              "ToolTip": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\Checker.cs",
+              "RelativeToolTip": "CheatBuster\\Checker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:01:17.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheatBuster\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\MainWindow.xaml",
+              "RelativeToolTip": "CheatBuster\\MainWindow.xaml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T04:41:41.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CheatBuster\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CheatBuster\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:21:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "extension.txt",
+              "DocumentMoniker": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\Data\\extension.txt",
+              "RelativeDocumentMoniker": "CheatBuster\\Data\\extension.txt",
+              "ToolTip": "C:\\Users\\yomiheart\\source\\repos\\cheatbuster-git\\CheatBuster\\Data\\extension.txt",
+              "RelativeToolTip": "CheatBuster\\Data\\extension.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-18T08:22:10.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

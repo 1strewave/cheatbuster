@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CheatBuster (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CheatBuster (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
